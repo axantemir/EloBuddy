@@ -1,0 +1,28 @@
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\S_Class_Lucian\Mario`s Template\bin\Debug\Mario`s Template.exe.config
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\S_Class_Lucian\Mario`s Template\bin\Debug\S-Class Lucian.exe.config
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\S_Class_Lucian\S-Class Lucian\bin\Debug\S-Class Lucian.exe.config
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\S_Class_Lucian\S-Class Lucian\bin\Debug\S-Class Lucian.exe
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\S_Class_Lucian\S-Class Lucian\bin\Debug\S-Class Lucian.pdb
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\S_Class_Lucian\S-Class Lucian\bin\Debug\EloBuddy.Sandbox.dll
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\S_Class_Lucian\S-Class Lucian\obj\Debug\S-Class Lucian.csprojResolveAssemblyReference.cache
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\S_Class_Lucian\S-Class Lucian\obj\Debug\S-Class Lucian.exe
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\S_Class_Lucian\S-Class Lucian\obj\Debug\S-Class Lucian.pdb
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\S_Class_Lucian\S-Class Lucian\bin\Debug\Newtonsoft.Json.dll
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\S_Class_Lucian\S-Class Lucian\bin\Debug\EloBuddy.dll
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\S_Class_Lucian\S-Class Lucian\bin\Debug\EloBuddy.SDK.dll
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\S_Class_Lucian\S-Class Lucian\bin\Debug\SharpDX.Direct3D9.dll
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\S_Class_Lucian\S-Class Lucian\bin\Debug\SharpDX.dll
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\S-Class\S-Class Lucian\bin\Debug\S-Class Lucian.exe.config
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\S-Class\S-Class Lucian\obj\Debug\S-Class Lucian.exe
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\S-Class\S-Class Lucian\obj\Debug\S-Class Lucian.pdb
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\S-Class\S-Class Lucian\bin\Debug\S-Class Lucian.exe
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\S-Class\S-Class Lucian\bin\Debug\S-Class Lucian.pdb
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\S-Class\S-Class Lucian\bin\Debug\Newtonsoft.Json.dll
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\S-Class\S-Class Lucian\bin\Debug\EloBuddy.Sandbox.dll
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\S-Class\S-Class Lucian\obj\Debug\S-Class Lucian.csprojResolveAssemblyReference.cache
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\S-Class\S-Class Lucian\bin\Debug\Mario`s Lib.dll
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\S-Class\S-Class Lucian\bin\Debug\Mario`s Lib.pdb
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\S-Class\S-Class Lucian\bin\Debug\EloBuddy.dll
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\S-Class\S-Class Lucian\bin\Debug\EloBuddy.SDK.dll
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\S-Class\S-Class Lucian\bin\Debug\SharpDX.Direct3D9.dll
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\S-Class\S-Class Lucian\bin\Debug\SharpDX.dll

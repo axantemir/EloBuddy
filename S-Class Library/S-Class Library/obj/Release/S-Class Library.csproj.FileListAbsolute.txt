@@ -1,0 +1,11 @@
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\S-Class Library\S-Class Library\bin\Release\S-Class Library.dll
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\S-Class Library\S-Class Library\bin\Release\S-Class Library.pdb
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\S-Class Library\S-Class Library\bin\Release\EloBuddy.dll
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\S-Class Library\S-Class Library\bin\Release\EloBuddy.Sandbox.dll
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\S-Class Library\S-Class Library\bin\Release\EloBuddy.SDK.dll
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\S-Class Library\S-Class Library\bin\Release\SharpDX.Direct3D9.dll
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\S-Class Library\S-Class Library\bin\Release\SharpDX.dll
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\S-Class Library\S-Class Library\bin\Release\Newtonsoft.Json.dll
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\S-Class Library\S-Class Library\obj\Release\S-Class Library.csprojResolveAssemblyReference.cache
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\S-Class Library\S-Class Library\obj\Release\S-Class Library.dll
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\S-Class Library\S-Class Library\obj\Release\S-Class Library.pdb

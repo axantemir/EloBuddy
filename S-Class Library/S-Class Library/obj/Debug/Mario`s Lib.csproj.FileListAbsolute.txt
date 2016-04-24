@@ -1,0 +1,11 @@
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\Mario`s Lib\Mario`s Lib\bin\Debug\Mario`s Lib.dll
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\Mario`s Lib\Mario`s Lib\bin\Debug\Mario`s Lib.pdb
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\Mario`s Lib\Mario`s Lib\obj\Debug\Mario`s Lib.csprojResolveAssemblyReference.cache
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\Mario`s Lib\Mario`s Lib\obj\Debug\Mario`s Lib.dll
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\Mario`s Lib\Mario`s Lib\obj\Debug\Mario`s Lib.pdb
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\Mario`s Lib\Mario`s Lib\bin\Debug\EloBuddy.dll
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\Mario`s Lib\Mario`s Lib\bin\Debug\EloBuddy.Sandbox.dll
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\Mario`s Lib\Mario`s Lib\bin\Debug\EloBuddy.SDK.dll
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\Mario`s Lib\Mario`s Lib\bin\Debug\SharpDX.Direct3D9.dll
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\Mario`s Lib\Mario`s Lib\bin\Debug\SharpDX.dll
+E:\DMI\Projects\Visual Studio 2015\Projects\EloBuddy\Mario`s Lib\Mario`s Lib\bin\Debug\Newtonsoft.Json.dll
